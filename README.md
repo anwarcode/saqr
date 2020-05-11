@@ -1,2 +1,0 @@
-# saqr
-saqrbot
